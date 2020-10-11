@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name = "H1"
+include ':sematec_ap'
+rootProject.name = "sematec_ap"
